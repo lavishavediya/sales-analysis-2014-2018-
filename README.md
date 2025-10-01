@@ -1,4 +1,3 @@
-.
 
 📈 Sales Performance Analysis (2014-2018)
 Project Overview
@@ -36,5 +35,6 @@ Code Storage	Jupyter Notebook, GitHub
 
 
 ![Sales Analysis Power BI Dashboard](sales analysis dashboard.png)
+
 
 
