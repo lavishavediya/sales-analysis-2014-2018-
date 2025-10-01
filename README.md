@@ -34,8 +34,7 @@ Technologies Used
 
 Code Storage	Jupyter Notebook, GitHub
 
-Export to Sheets
-Power BI Dashboard
-The insights above are summarized in the final sales analysis dashboard.
+
 ![Sales Analysis Power BI Dashboard](sales analysis dashboard.png)
+
 
