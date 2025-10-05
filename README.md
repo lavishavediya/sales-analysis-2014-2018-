@@ -34,7 +34,8 @@ Technologies Used
 Code Storage	Jupyter Notebook, GitHub
 
 
-![Sales Analysis Power BI Dashboard](sales analysis dashboard.png)
+![Sales Analysis Power BI Dashboard](https://github.com/lavishavediya/sales-analysis-2014-2018-/blob/main/sales%20analysis%20dashboard.png)
+
 
 
 
